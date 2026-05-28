@@ -9,6 +9,20 @@ A reusable Kubernetes deployment framework designed to accelerate application de
 
 ---
 
+## 🔗 Portfolio Repositories Linkage
+
+This project is part of a multi-system engineering showcase:
+* **Kubernetes Deployment Accelerator (This Repository)**: Modular Terraform IaC modules, Helm library charts, and policy-driven GitOps pipelines.
+  👉 **[Go to Kubernetes Deployment Accelerator](https://github.com/sanjanamahajan2001-sys/k8s-deployment-accelerator)**
+* **AI Voice Infrastructure Platform**: The actual Multi-AZ AWS VPC and EKS container cluster provisioned using these templates.
+  👉 **[Go to AI Voice Infrastructure Platform](https://github.com/sanjanamahajan2001-sys/AI-Voice-Infrastructure-Platform)**
+* **Alcon AI Voice Agent**: The business conversational AI voice engine deployed inside the cluster.
+  👉 **[Go to Alcon AI Voice Bot](https://github.com/sanjanamahajan2001-sys/Alcon-AI-voice-agent)**
+* **MirrorVault**: Secure database backup, recovery agent, and automatic systemd scheduler.
+  👉 **[Go to MirrorVault](https://github.com/sanjanamahajan2001-sys/mirrorvault)**
+
+---
+
 ## 🎯 Project Goals
 
 This project was created to explore and demonstrate:
